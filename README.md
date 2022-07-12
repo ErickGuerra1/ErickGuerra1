@@ -45,7 +45,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Recommendations YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Learning to code is HARD - Unless you do this!](https://www.youtube.com/watch?v=VGGWcy6__Fg)
