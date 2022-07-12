@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Python
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love reading and playing games
 - 😻 Check my store: [Em andamento](https://)
 
 ### Connect with me:
