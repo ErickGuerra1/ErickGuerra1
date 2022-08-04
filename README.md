@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGuerra1&show_icons=true&hide_border=true&title_color=479DFF&icon_color=A17FFF&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 </div>
 
-## I'm a Developer and Future Teacher!!
+## I'm a Developer and Design!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
