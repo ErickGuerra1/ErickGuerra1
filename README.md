@@ -1,6 +1,11 @@
 # Hi there, I'm Erick Guerra 👋 
 
 
+ <div>
+  <a href="https://github.com/ErickGuerra1">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=ErickGuerra1&show_icons=true&hide_border=false&title_color=479DFF&icon_color=A17FFF&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGuerra1&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 
 ## I'm a Developer and Future Teacher!!
 
