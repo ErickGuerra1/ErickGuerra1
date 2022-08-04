@@ -1,5 +1,6 @@
 # Hi there, I'm Erick Guerra 👋 
 
+  <img align="left" alt="Erick Guerra GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ErickGuerra1&show_icons=true&hide_border=false&title_color=479DFF&icon_color=A17FFF&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 ## I'm a Developer and Future Teacher!!
 
