@@ -20,9 +20,9 @@
 
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-dark.svg)](https://)
 &nbsp;&nbsp;
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/)
 &nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
