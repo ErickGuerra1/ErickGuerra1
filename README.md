@@ -48,19 +48,3 @@
 <br />
 
 ---
-
-### 📺 Recommendations YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Python for Beginners - Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8)
-- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
-- [LOOK Stack Overflow Developer Survey 2022 Results Are In!!](https://www.youtube.com/watch?v=KnlXUkdJ6j8)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/)
-
-
----
-
-
-
