@@ -28,7 +28,7 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/erick-guerra-8a7a071b4/)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/dide_roth/)
 
 ### Languages and Tools:
 
