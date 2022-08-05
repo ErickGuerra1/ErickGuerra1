@@ -1,11 +1,13 @@
 # Hi there, I'm Erick Guerra 👋 
 
-
+<details>
+  <summary>:zap: GitHub Stats</summary>
  <div>
   <a href="https://github.com/ErickGuerra1">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=ErickGuerra1&show_icons=true&hide_border=false&title_color=479DFF&icon_color=A17FFF&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGuerra1&show_icons=true&hide_border=true&title_color=479DFF&icon_color=A17FFF&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 </div>
+</details>
 
 ## I'm a Developer and Design!!
 
@@ -61,13 +63,4 @@
 ---
 
 
-<!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Erick Guerra GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ErickGuerra1&show_icons=true&hide_border=false&title_color=479DFF&icon_color=A17FFF&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
