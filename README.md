@@ -24,7 +24,7 @@
 &nbsp;&nbsp;
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Kersteend)
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/erick-guerra-8a7a071b4/)
 &nbsp;&nbsp;
