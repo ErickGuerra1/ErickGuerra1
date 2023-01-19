@@ -1,4 +1,4 @@
-# Hi there, I'm Erick Guerra 👋 
+# Hi there, I'm Erick Guerra  
 
 <details>
   <summary>:zap: GitHub Stats</summary>
