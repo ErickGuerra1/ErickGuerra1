@@ -12,9 +12,9 @@
 ## I'm a Developer and Design!!
 
 - 💻 Systems Analysis and Development Student 
-- 📚 I’m currently learning everything 🤣
+- 📚 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Python
+- 🥅 2023 Goals: Learn more about Python
 
 
 
