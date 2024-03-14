@@ -14,7 +14,6 @@
 - 💻 Systems Analysis and Development Student 
 - 📚 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about Python
 
 
 
